@@ -1,10 +1,10 @@
 {
    "blogs":[
       {
-         "title":"Window",
+         "title":"Sophos",
          "id":1,
-         "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuereerat a ante.",
-         "url":"https://ddhairya.wordpress.com/2021/05/10/data-back-up-after-window-is-crashed-using-cmd-dos/",
+         "body":"Sophos Central walkthrough, with stepwise guide on how to secure the network using sophos endpoint ",
+         "url":"https://ddhairya.wordpress.com/?s=sophos",
          "year":"2021"
       }
    ]
