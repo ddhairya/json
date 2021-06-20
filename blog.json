@@ -4,7 +4,14 @@
          "title":"Sophos",
          "id":1,
          "body":"Sophos Central walkthrough, with stepwise guide on how to secure the network using sophos endpoint ",
-         "url":"https://ddhairya.wordpress.com/?s=sophos",
+         "url":"https://ddhairya.wordpress.com/category/network-security/endpoint-security-antivirus/",
+         "year":"2021"
+      },
+      {
+         "title":"React JS",
+         "id":2,
+         "body":" A React JS series consist of the components used to developed my portfolio site",
+         "url":"https://ddhairya.wordpress.com/category/programing-and-technology/react/",
          "year":"2021"
       }
    ]
