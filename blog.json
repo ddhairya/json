@@ -13,6 +13,13 @@
          "body":" A React JS series consist of the components used to developed this portfolio site: firebase, gh-pages, react-router-dom, react-dom, react-bootstrap, bootstrap, styled-components, react-scripts",
          "url":"https://ddhairya.wordpress.com/category/programing-and-technology/react/",
          "year":"2021"
+      },
+      {
+         "title":"SAP ABAP",
+         "id":3,
+         "body":" A procedural SAP implementation and ABAP guides, which encountered during an actual implementation in group of companies with business model of Retails, Service and F&B industry. ",
+         "url":"https://ddhairya.wordpress.com/category/programing-and-technology/sap/",
+         "year":"2021"
       }
    ]
 }
